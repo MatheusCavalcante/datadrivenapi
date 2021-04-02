@@ -2,7 +2,7 @@
 
 Projeto de construção de uma API Data Driven para prática de conhecimentos.
 
-### Tecnologias e versões utilizada
+### Tecnologias e versões utilizadas
 
 * ASP.NET Core 3.1 SDK
 * Entity Framework Core 3.0
